@@ -58,14 +58,16 @@ movie_review_summary
 1. Run the schema & inserts
 
 This builds the full database structure and loads sample rows:
-
+```
 schema.sql
+```
 
 2. Run the queries & views
 
 This file depends on the tables created in Part 1:
-
+```
 queries.sql
+```
 
 
 Works on:
